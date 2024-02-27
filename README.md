@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AbdullahS-21
-- 👀 I’m interested in Javascript & C#
-- 🌱 I’m currently learning Javascript & C#
-- 💞️ I’m looking to collaborate on Javascript & C#
+- 👋 Hi, I’m @Abdullah Sheikh
+- 👀 I’m interested in building automation testing frameworks from scratch using Selenium, Cucumber, Java, C#, Maven, POM, BDD, API
+- 🌱 I’m currently learning Cypress
+- 💞️ I’m looking to collaborate on Automation Testing and CI/CD
 - 📫 You can reach me by email: abdullahshaikh225@gmail.com
 
 
